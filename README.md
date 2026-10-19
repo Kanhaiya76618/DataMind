@@ -24,6 +24,9 @@
 
 ## 💡 What is Nexora?
 
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/012760d0-78ff-4454-8169-275d90f1ff62" />
+
+
 You type a question like *"Which 5 nations generated the most revenue from customers in ASIA in 1994?"*.
 Nexora turns it into SQL, runs it in **Snowflake**, and answers in one or two sentences — **with the evidence behind
 every number**: the exact SQL, the Snowflake query ID, the result rows, and a check that the query really asked what
