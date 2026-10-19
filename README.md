@@ -211,7 +211,7 @@ here. Gemma's use is governed by its model licence. Code: [MIT](LICENSE).
 
 <div align="center">
 
-**Team Dextro** — 🥈 **1st Runner-up**, ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad), Track PS1 *"Talk to Your Data"*
+**Team Dextro** — 🥈 **1st Runner-up**, ZeroDay OSS Hacktoberfest 2026 (IIIT Dharwad) x MLH x GEMMA, Track PS1 *"Talk to Your Data"*
 
 <sub>Correct when it can be. Honest when it can't. Every number checkable.</sub>
 
