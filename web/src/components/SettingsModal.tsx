@@ -87,7 +87,7 @@ export default function SettingsModal({
                   </span>
                 </div>
                 <div className="mt-1 text-xs text-stone-500">
-                  {health?.snowflake?.region ? `AWS ${health.snowflake.region}` : "AWS Mumbai (AP-SOUTH-1)"} • FCBWKQT-GK18385
+                  {health?.snowflake?.region ? `AWS ${health.snowflake.region}` : "AWS Mumbai (AP-SOUTH-1)"}{health?.snowflake?.warehouse ? ` • ${health.snowflake.warehouse}` : ""}
                 </div>
                 <div className="mt-0.5 text-[11px] text-stone-400 font-mono">
                   Warehouse: {health?.snowflake?.warehouse || "DATAMIND_WH"} • Version: {health?.snowflake?.version || "Live"}
